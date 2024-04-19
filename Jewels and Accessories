@@ -52,8 +52,8 @@ div.desc {
                 <h>NEVER LOOSE TIME & STAY SHINE BRIGHT LIKE A DIAMOND</h>
                 <body>
                     <div class="gallery">
-                        <a target="_blank" href="../jewels and accessories/3pcs men's watch.webp">
-                      <img  src="../jewels and accessories/3pcs men's watch.webp"  alt="Cinque terre" width="600" height="400">
+                        <a target="_blank" href="3pcs men's watch.webp">
+                      <img  src="3pcs men's watch.webp"  alt="Cinque terre" width="600" height="400">
                       </a>
                       <div class="desc"> 3PCS MEN'S WATCH</div>
                 <p>$69.99
@@ -61,7 +61,7 @@ div.desc {
                 </p>
                 </div>
                        <div class="gallery">
-                        <a target="_blank" href="../jewels and accessories/butterfly ring.jpg">
+                        <a target="_blank" href="butterfly ring.jpg">
                       <img src="../jewels and accessories/butterfly ring.jpg" alt="forest" width="600" height="400">
                       </a>
                       <div class="desc">BUTTERFLY RING</div>
@@ -107,16 +107,16 @@ div.desc {
                 </div>
 
                 <div class="gallery">
-                    <a target="_blank" href="../jewels and accessories/prom jewels.jpg">
-                      <img src="../jewels and accessories/prom jewels.jpg" alt="shoes" width="600" height="400">
+                    <a target="_blank" href="prom jewels.jpg">
+                      <img src="prom jewels.jpg" alt="shoes" width="600" height="400">
                     </a>
                       <div class="desc">PROM JEWELRY</div>
                 <p>$52.99</p>
                 </div>
                 
                 <div class="gallery">
-                    <a target="_blank" href="../jewels and accessories/royal crown.webp">
-                      <img src="../jewels and accessories/royal crown.webp" alt="shoes" width="600" height="400" >
+                    <a target="_blank" href="royal crown.webp">
+                      <img src="royal crown.webp" alt="shoes" width="600" height="400" >
                     </a>
                       <div class="desc">ROYAL CROWN</div>
                 <p>$60.99
@@ -133,8 +133,8 @@ div.desc {
                     </div>
                 </div>
                 <div class="gallery">
-                    <a target="_blank" href="../jewels and accessories/wedding jewels.jpg">
-                      <img src="../jewels and accessories/wedding jewels.jpg" alt="shoes" width="600" height="400" >
+                    <a target="_blank" href="wedding jewels.jpg">
+                      <img src="wedding jewels.jpg" alt="shoes" width="600" height="400" >
                       <div class="desc">WEDDING JEWEL</div>
                 <p>$89.99
                     sale
@@ -142,8 +142,8 @@ div.desc {
                     </div>
                 </div>
                 <div class="gallery">
-                    <a target="_blank" href="../jewels and accessories/stylish accessories.jpg">
-                      <img src="../jewels and accessories/stylish accessories.jpg" alt="shoes" width="600" height="400" >
+                    <a target="_blank" href="stylish accessories.jpg">
+                      <img src="stylish accessories.jpg" alt="shoes" width="600" height="400" >
                       <div class="desc">STYLISH JEWEL</div>
                 <p>$29.99
                     sale
